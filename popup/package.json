@@ -1,7 +1,6 @@
 {
   "name": "popup",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -38,6 +37,17 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "emper",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emper-One/popup.git"
+  },
+  "keywords": [
+    "popup"
+  ],
+  "bugs": {
+    "url": "https://github.com/Emper-One/popup/issues"
+  },
+  "homepage": "https://github.com/Emper-One/popup#readme"
 }
